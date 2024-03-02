@@ -1,0 +1,8 @@
+<svg width="200px" height="200px" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="30" y="150" width="140" height="20" rx="10" fill="#4CAF50"/>
+  <rect x="70" y="40" width="60" height="110" rx="5" fill="#8BC34A"/>
+  <rect x="90" y="50" width="20" height="30" rx="2" fill="white"/>
+  <text x="100" y="70" font-family="Arial" font-size="12" fill="black" text-anchor="middle">BMI</text>
+  <circle cx="50" cy="160" r="10" fill="#388E3C"/>
+  <circle cx="150" cy="160" r="10" fill="#388E3C"/>
+</svg>
